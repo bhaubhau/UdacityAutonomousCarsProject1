@@ -8,4 +8,3 @@ sudo pip3 install moviepy
 sudo -H pip install jupyter
 sudo jupyter notebook
 sudo jupyter notebook --allow-root
-test update
