@@ -7,9 +7,14 @@ sudo apt-get install python3-tk
 sudo apt install ffmpeg
 sudo pip3 install moviepy
 sudo -H pip install jupyter
+sudo -H pip3 install jupyter
+sudo -H ipython3 kernelspec install-self
 sudo jupyter notebook
 sudo jupyter notebook --allow-root
 pip install --upgrade tensorflow
+sudo pip3 install scipy
+sudo pip3 install sklearn
+sudo pip3 install keras
 
 
 git config --global user.name "Bhavik Kawli"
