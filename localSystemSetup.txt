@@ -14,8 +14,9 @@ sudo jupyter notebook --allow-root
 pip install --upgrade tensorflow
 sudo pip3 install scipy
 sudo pip3 install sklearn
-sudo pip3 install keras
-sudo -H pip3 install socketio
+sudo pip install keras
+pip install python-socketio
+pip install eventlet
 
 
 git config --global user.name "Bhavik Kawli"
